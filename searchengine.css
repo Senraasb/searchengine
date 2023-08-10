@@ -1,0 +1,57 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    background: url(Untitled\ design.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    margin: -310px 90px 78px 99px; 
+}
+.btn{
+position: relative;
+align-content: center;
+padding: 290px 10px 235px 430px; 
+
+
+}
+.tbn{
+    border: #544838 solid 2px;
+    background-color: #E6AA6B;
+    letter-spacing: 5px;
+    opacity: 0.5;
+    font-weight: 250;
+    font-family: monospace;
+
+}
+.tbn:hover{
+text-transform: uppercase;
+cursor: pointer;
+letter-spacing: 8px;
+border-radius: 40px 45px 95px 75px;
+background-color: #362B23;
+border: #C8A890 dotted 2px;
+transition:1.5s; 
+opacity: 0.9;
+font-weight: 700;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#button{
+    margin-left: 312px;
+    font-weight: 150;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.5; 
+    background-color: #544838; 
+    border: #353d3a solid 2px;
+   
+}
+ #button:hover{
+    border: #362B23 dotted 3px;
+    background-color: #a1907c;
+    opacity: 0.9;
+} 
+
+
+
